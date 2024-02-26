@@ -1,0 +1,8 @@
+bool
+int
+string
+float
+room
+PlayerSprite
+Bitmap
+Graphics
